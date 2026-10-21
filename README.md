@@ -1,4 +1,7 @@
 # GCC Atlas India 🇮🇳
+> 🌐 **Live Public App**: [https://givemehat.github.io/gcc-atlas-india/](https://givemehat.github.io/gcc-atlas-india/)
+> 📦 **GitHub Repository**: [https://github.com/givemehat/gcc-atlas-india](https://github.com/givemehat/gcc-atlas-india)
+
 ### *The Neutral, Sourced Single Source of Truth for Global Capability Centres in India*
 
 > **"Every GCC in India, every number sourced."**  
@@ -11,7 +14,7 @@
 India's GCC market has grown into a **$98.4B annual powerhouse**, with **2,117 active GCCs** running **3,728 units** and employing **2.36 million high-skill professionals** (*Nasscom-Zinnov FY26*). 
 
 Yet despite its size, the ecosystem is plagued by severe **information asymmetry**. Reports from top real estate and strategy consultancies contradict each other on the exact same city:
-- **Bengaluru**: Vestian reports **487 GCCs** (29%), JLL reports **900+ units** (34–39%), and Flexiple lists **~870 GCCs** (~40%).
+- **Bengaluru**: Vestian reports **487 GCCs** (29%), JLL reports **900+ units** (34-39%), and Flexiple lists **~870 GCCs** (~40%).
 - **Why?** Some count corporate parent entities, others count individual business units or physical campus leases, yet all are cited as if equivalent.
 - **The Gap:** No report published the underlying, verifiable entity list.
 
@@ -216,7 +219,7 @@ In strict compliance with the assignment rules:
 ### 1. What is 100% Real, Verified Data
 - **National Baseline**: Nasscom-Zinnov FY26 figures (2,117 GCCs, 3,728 units, 2.36M employees, $98.4B revenue).
 - **Disparity Benchmark**: Sourced figures from Vestian (487 GCCs, 29%), JLL 2026 (900+ units, 34-39%), and Flexiple (~870 GCCs) with live external URLs.
-- **State GCC Policies**: Karnataka GCC Policy 2024–29, Telangana TS-iPASS framework, Tamil Nadu GCC Policy 2024, and Maharashtra IT/ITeS Policy 2023 with verified incentive clauses.
+- **State GCC Policies**: Karnataka GCC Policy 2024-29, Telangana TS-iPASS framework, Tamil Nadu GCC Policy 2024, and Maharashtra IT/ITeS Policy 2023 with verified incentive clauses.
 - **Commercial Office Rents**: Blended averages and min/max ranges sourced from CBRE, JLL, and Knight Frank Q4 2025 trackers.
 - **GCC Entity Records**: 140+ real enterprise entries with parent headquarters, Indian city hubs, sectors, and verified citations (e.g. Google, Microsoft, Boeing, Goldman Sachs, JPMorgan, AstraZeneca, Bosch, Mercedes-Benz, Qualcomm, Siemens, Walmart, Target, etc.).
 
@@ -236,7 +239,7 @@ In strict compliance with the assignment rules:
    Build a scheduled scraper and parser for Ministry of Corporate Affairs (MCA) Form MGT-7 and ROC balance sheet filings to automatically detect when a Fortune 500 firm incorporates a new subsidiary in India, pulling director filings, paid-up capital, and registered office addresses before any press release is published.
 
 2. **Inbound Expansion Signals & Talent Mobility Feed**:
-   Monitor aggregated LinkedIn headcount deltas, senior GCC leadership departures, and commercial lease registrations across Tier-1 SEZs to alert service providers and landlords 90–120 days before a GCC formally announces a second-city expansion.
+   Monitor aggregated LinkedIn headcount deltas, senior GCC leadership departures, and commercial lease registrations across Tier-1 SEZs to alert service providers and landlords 90-120 days before a GCC formally announces a second-city expansion.
 
 3. **Neutral RFP & Vetted Setup Partner Marketplace**:
    Allow entrant CXOs who complete the "Find My City" wizard to request quotes from top-tier, audited setup advisors, build-operate-transfer (BOT) firms, and commercial brokers. Service providers pay a success-aligned connection fee, keeping the data neutral and free for entrants forever.
