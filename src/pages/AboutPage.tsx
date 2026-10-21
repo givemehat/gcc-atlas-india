@@ -233,7 +233,7 @@ export const AboutPage: React.FC<AboutPageProps> = () => {
                 title: 'State Government GCC & ICT Policies (Karnataka, Telangana, Tamil Nadu, Maharashtra)',
                 desc: 'Official gazetted policies governing capital subsidies, power tariffs, and stamp duty exemptions.',
                 url: 'https://investingintamilnadu.com/',
-                date: '2024–2026'
+                date: '2024-2026'
               }
             ].map((item, idx) => (
               <div key={idx} className="p-4 flex items-center justify-between gap-4 hover:bg-stone-50">

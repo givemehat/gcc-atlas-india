@@ -253,7 +253,7 @@ export const ComparePage: React.FC<ComparePageProps> = ({ cities, initialCities 
         {/* Print Header */}
         <div className="hidden print:block p-4 border-b border-stone-300">
           <h2 className="text-lg font-serif font-bold text-black">
-            GCC Atlas India — City Comparative Matrix Report
+            GCC Atlas India | City Comparative Matrix Report
           </h2>
           <p className="text-xs text-stone-600 font-mono">
             Selected Metros: {selectedCities.map((c) => c.name).join(', ')} • Date: October 2026
@@ -350,7 +350,7 @@ export const ComparePage: React.FC<ComparePageProps> = ({ cities, initialCities 
                     <span>Share of New GCCs</span>
                   </div>
                   <span className="text-[10px] text-stone-500 font-normal block mt-0.5">
-                    FY25–26 National Share
+                    FY25-26 National Share
                   </span>
                 </td>
                 {selectedCities.map((city) => (
@@ -398,7 +398,7 @@ export const ComparePage: React.FC<ComparePageProps> = ({ cities, initialCities 
                           asOf={city.office_rent.as_of}
                           note="Grade A commercial SEZ / non-SEZ IT corridors."
                         >
-                          ₹{city.office_rent.min_inr_sqft_mo} – ₹{city.office_rent.max_inr_sqft_mo}
+                          ₹{city.office_rent.min_inr_sqft_mo} to ₹{city.office_rent.max_inr_sqft_mo}
                         </SourceTooltip>
                       </div>
                       <ConfidenceBadge level={city.office_rent.confidence || 'Reported'} size="sm" />

@@ -31,7 +31,7 @@ export const CityBarChart: React.FC<CityBarChartProps> = ({
           <h4 className="text-base font-editorial font-bold text-stone-900">
             {metric === 'count'
               ? 'Estimated Active GCC Count by City'
-              : 'Share of Newly Established GCCs (FY25–26 %)'}
+              : 'Share of Newly Established GCCs (FY25-26 %)'}
           </h4>
         </div>
 

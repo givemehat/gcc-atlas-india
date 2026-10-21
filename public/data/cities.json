@@ -53,16 +53,16 @@
     "talent_cost": {
       "level": "Premium (Highest in India)",
       "discount_vs_bengaluru_pct": 0,
-      "junior_swe_lpa": "₹8 – 16 LPA",
-      "senior_lead_lpa": "₹32 – 62 LPA",
-      "director_lpa": "₹75 – 150 LPA",
+      "junior_swe_lpa": "₹8 - 16 LPA",
+      "senior_lead_lpa": "₹32 - 62 LPA",
+      "director_lpa": "₹75 - 150 LPA",
       "source": "Flexiple Tech Hiring & Mercer GCC Compensation Index",
       "source_url": "https://flexiple.com/gcc/statistics",
       "as_of": "2026",
       "confidence": "Estimated"
     },
     "state_incentives": {
-      "policy_name": "Karnataka GCC Policy 2024–2029",
+      "policy_name": "Karnataka GCC Policy 2024-2029",
       "policy_url": "https://itbtst.karnataka.gov.in/",
       "as_of": "Nov 2024",
       "summary": "Targeted goal of 500 new GCCs; anchor investor incentives up to ₹100 Cr, capital subsidies, and Beyond Bengaluru package.",
@@ -125,7 +125,7 @@
       },
       {
         "source": "JLL India GCC Guide 2026",
-        "figure": "20–23% share",
+        "figure": "20-23% share",
         "market_share": "22%",
         "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
         "as_of": "Jan 2026",
@@ -155,11 +155,11 @@
       "confidence": "Reported"
     },
     "talent_cost": {
-      "level": "Competitive (12–15% lower than BLR)",
+      "level": "Competitive (12-15% lower than BLR)",
       "discount_vs_bengaluru_pct": 14,
-      "junior_swe_lpa": "₹6.5 – 13 LPA",
-      "senior_lead_lpa": "₹26 – 48 LPA",
-      "director_lpa": "₹60 – 120 LPA",
+      "junior_swe_lpa": "₹6.5 - 13 LPA",
+      "senior_lead_lpa": "₹26 - 48 LPA",
+      "director_lpa": "₹60 - 120 LPA",
       "source": "Flexiple Tech Benchmarks & TeamLease Digital",
       "source_url": "https://flexiple.com/gcc/statistics",
       "as_of": "2026",
@@ -229,7 +229,7 @@
       },
       {
         "source": "JLL India GCC Guide 2026",
-        "figure": "12–14% share",
+        "figure": "12-14% share",
         "market_share": "13%",
         "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
         "as_of": "Jan 2026",
@@ -259,11 +259,11 @@
       "confidence": "Reported"
     },
     "talent_cost": {
-      "level": "Moderate (18–22% lower than BLR)",
+      "level": "Moderate (18-22% lower than BLR)",
       "discount_vs_bengaluru_pct": 20,
-      "junior_swe_lpa": "₹6 – 12 LPA",
-      "senior_lead_lpa": "₹24 – 45 LPA",
-      "director_lpa": "₹55 – 110 LPA",
+      "junior_swe_lpa": "₹6 - 12 LPA",
+      "senior_lead_lpa": "₹24 - 45 LPA",
+      "director_lpa": "₹55 - 110 LPA",
       "source": "Flexiple Tech Benchmarks & Aon GCC Salary Study",
       "source_url": "https://flexiple.com/gcc/statistics",
       "as_of": "2026",
@@ -333,7 +333,7 @@
       },
       {
         "source": "JLL India GCC Guide 2026",
-        "figure": "10–12% share",
+        "figure": "10-12% share",
         "market_share": "11%",
         "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
         "as_of": "Jan 2026",
@@ -363,11 +363,11 @@
       "confidence": "Reported"
     },
     "talent_cost": {
-      "level": "Very Cost Efficient (22–26% lower than BLR)",
+      "level": "Very Cost Efficient (22-26% lower than BLR)",
       "discount_vs_bengaluru_pct": 24,
-      "junior_swe_lpa": "₹5.5 – 11 LPA",
-      "senior_lead_lpa": "₹22 – 42 LPA",
-      "director_lpa": "₹50 – 100 LPA",
+      "junior_swe_lpa": "₹5.5 - 11 LPA",
+      "senior_lead_lpa": "₹22 - 42 LPA",
+      "director_lpa": "₹50 - 100 LPA",
       "source": "Flexiple Tech Benchmarks & Michael Page GCC Guide",
       "source_url": "https://flexiple.com/gcc/statistics",
       "as_of": "2026",
@@ -437,7 +437,7 @@
       },
       {
         "source": "JLL India GCC Guide 2026",
-        "figure": "10–12% share",
+        "figure": "10-12% share",
         "market_share": "10%",
         "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
         "as_of": "Jan 2026",
@@ -469,16 +469,16 @@
     "talent_cost": {
       "level": "High (close to BLR for corporate leadership)",
       "discount_vs_bengaluru_pct": 5,
-      "junior_swe_lpa": "₹7 – 14 LPA",
-      "senior_lead_lpa": "₹28 – 54 LPA",
-      "director_lpa": "₹68 – 140 LPA",
+      "junior_swe_lpa": "₹7 - 14 LPA",
+      "senior_lead_lpa": "₹28 - 54 LPA",
+      "director_lpa": "₹68 - 140 LPA",
       "source": "Flexiple Tech Benchmarks & Korn Ferry GCC Salary Pulse",
       "source_url": "https://flexiple.com/gcc/statistics",
       "as_of": "2026",
       "confidence": "Estimated"
     },
     "state_incentives": {
-      "policy_name": "Haryana Enterprises & Employment Policy / UP IT Policy 2022–2027",
+      "policy_name": "Haryana Enterprises & Employment Policy / UP IT Policy 2022-2027",
       "policy_url": "https://haryanainvest.gov.in/",
       "as_of": "Jan 2025",
       "summary": "Dual-state ecosystem: Haryana offers SGST subsidies; UP provides capital interest subsidies (up to 5% for 7 years) and land rebates.",
@@ -541,7 +541,7 @@
       },
       {
         "source": "JLL India GCC Guide 2026",
-        "figure": "5–6% share",
+        "figure": "5-6% share",
         "market_share": "5%",
         "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
         "as_of": "Jan 2026",
@@ -573,9 +573,9 @@
     "talent_cost": {
       "level": "Premium (Highest for quantitative & executive talent)",
       "discount_vs_bengaluru_pct": -2,
-      "junior_swe_lpa": "₹7.5 – 15 LPA",
-      "senior_lead_lpa": "₹30 – 60 LPA",
-      "director_lpa": "₹80 – 165 LPA",
+      "junior_swe_lpa": "₹7.5 - 15 LPA",
+      "senior_lead_lpa": "₹30 - 60 LPA",
+      "director_lpa": "₹80 - 165 LPA",
       "source": "Flexiple Tech Benchmarks & Michael Page Banking Compensation",
       "source_url": "https://flexiple.com/gcc/statistics",
       "as_of": "2026",

@@ -39,7 +39,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
             <div className="p-4 bg-white border border-stone-200 rounded shadow-xs">
               <span className="font-mono text-xs text-stone-500 block">JLL India (Jan 2026)</span>
               <div className="text-2xl font-editorial font-bold text-stone-950 mt-1">900+ units</div>
-              <p className="text-xs text-stone-600 mt-1">34–39% share. Counts individual business units and campus leases.</p>
+              <p className="text-xs text-stone-600 mt-1">34% to 39% share. Counts individual business units and campus leases.</p>
             </div>
             <div className="p-4 bg-white border border-stone-200 rounded shadow-xs">
               <span className="font-mono text-xs text-stone-500 block">Flexiple Directory (2026)</span>
@@ -306,7 +306,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
               <p className="text-stone-700">
                 Setup advisors, EOR firms, real estate developers, and legal practices pay an annual subscription for an audited profile showcasing verified client logos and scope.
               </p>
-              <span className="text-[10px] text-stone-500 font-mono block pt-1">$3,000 – $6,000 / year</span>
+              <span className="text-[10px] text-stone-500 font-mono block pt-1">$3,000 to $6,000 / year</span>
             </div>
 
             <div className="p-4 bg-white border border-stone-200 rounded space-y-2">
@@ -331,7 +331,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
           </div>
 
           <div className="p-3 bg-stone-50 border border-stone-200 rounded text-xs text-stone-600">
-            Because the entrant gets pure, uncorrupted value for free, they share high-fidelity intent data—which is the exact data the supply side will pay a premium to access.
+            Because the entrant gets pure, uncorrupted value for free, they share high-fidelity intent data, which is the exact data the supply side will pay a premium to access.
           </div>
         </div>
       )
@@ -397,7 +397,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
             <div className="p-4 bg-white border border-stone-200 rounded space-y-2">
               <span className="font-mono text-[11px] font-semibold text-stone-900 block">
-                Days 1–30: Validation & Data Densification
+                Days 1-30: Validation & Data Densification
               </span>
               <ul className="space-y-1 text-stone-600 list-disc list-inside">
                 <li>Interview 10 first-time GCC leaders on city selection bottlenecks.</li>
@@ -408,7 +408,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
 
             <div className="p-4 bg-white border border-stone-200 rounded space-y-2">
               <span className="font-mono text-[11px] font-semibold text-stone-900 block">
-                Days 31–60: Distribution & SEO Flywheel
+                Days 31-60: Distribution & SEO Flywheel
               </span>
               <ul className="space-y-1 text-stone-600 list-disc list-inside">
                 <li>Deep-link Flexiple's existing GCC pages to Atlas interactive tools.</li>
@@ -419,7 +419,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
 
             <div className="p-4 bg-white border border-stone-200 rounded space-y-2">
               <span className="font-mono text-[11px] font-semibold text-stone-900 block">
-                Days 61–90: Provider Network Pilot
+                Days 61-90: Provider Network Pilot
               </span>
               <ul className="space-y-1 text-stone-600 list-disc list-inside">
                 <li>Onboard initial cohort of 15 vetted setup advisors.</li>

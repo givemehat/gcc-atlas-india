@@ -228,7 +228,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                   </td>
                   <td className="py-3 px-4 font-mono">
                     <strong className="text-stone-900">900+ units</strong>
-                    <span className="block text-stone-500 text-[10px]">(34–39% share)</span>
+                    <span className="block text-stone-500 text-[10px]">(34% to 39% share)</span>
                   </td>
                   <td className="py-3 px-4 font-mono">
                     <strong className="text-stone-900">~870 GCCs</strong>
@@ -248,7 +248,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                     <span className="block text-stone-500 text-[10px]">(16% share)</span>
                   </td>
                   <td className="py-3 px-4 font-mono">
-                    <strong className="text-stone-900">20–23% share</strong>
+                    <strong className="text-stone-900">20% to 23% share</strong>
                     <span className="block text-stone-500 text-[10px]">(square footage)</span>
                   </td>
                   <td className="py-3 px-4 font-mono">
@@ -310,10 +310,10 @@ export const HomePage: React.FC<HomePageProps> = ({
             Ecosystem Impact Analysis
           </span>
           <h2 className="text-3xl font-editorial font-bold text-stone-950 mt-1">
-            Who the players are — and how asymmetry hurts them
+            Who the players are and how asymmetry hurts them
           </h2>
           <p className="text-xs sm:text-sm text-stone-600 mt-2">
-            India's GCC enablement market is valued at $12–15B. Yet providers compete on marketing hype, not verified delivery outcomes.
+            India's GCC enablement market is valued at $12B to $15B. Yet providers compete on marketing hype, not verified delivery outcomes.
           </p>
         </div>
 
@@ -428,7 +428,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                   <div className="flex justify-between">
                     <span className="text-stone-500">Office Rent:</span>
                     <span className="font-mono text-stone-900">
-                      ₹{city.office_rent.min_inr_sqft_mo}–₹{city.office_rent.max_inr_sqft_mo} / sq ft
+                      ₹{city.office_rent.min_inr_sqft_mo} to ₹{city.office_rent.max_inr_sqft_mo} / sq ft
                     </span>
                   </div>
                   <div className="flex justify-between">
