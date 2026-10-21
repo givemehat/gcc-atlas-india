@@ -1,0 +1,626 @@
+[
+  {
+    "id": "bengaluru",
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "region": "South India",
+    "tagline": "India's Tech Capital & Deep-Tech GCC Epicenter",
+    "gcc_count_primary": 870,
+    "gcc_count_source": "Flexiple GCC Intelligence & Nasscom Industry Compilation",
+    "gcc_count_source_url": "https://flexiple.com/global-capability-centers/list-of-global-capability-centers-in-india",
+    "gcc_count_as_of": "Q1 2026",
+    "units_count_estimate": 1420,
+    "disparity_evidence": [
+      {
+        "source": "Vestian Realty Report",
+        "figure": "487 GCCs",
+        "market_share": "29%",
+        "url": "https://www.theweek.in/wire-updates/business/2025/07/21/dcm52-biz-realty-gcc.html",
+        "as_of": "Jul 2025",
+        "notes": "Counts strictly standalone parent enterprises with dedicated commercial leases."
+      },
+      {
+        "source": "JLL India GCC Guide 2026",
+        "figure": "900+ units",
+        "market_share": "34-39%",
+        "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+        "as_of": "Jan 2026",
+        "notes": "Counts individual operating business units, technology campuses, and secondary centers."
+      },
+      {
+        "source": "Flexiple GCC Directory",
+        "figure": "~870 GCCs",
+        "market_share": "~40%",
+        "url": "https://flexiple.com/gcc/statistics",
+        "as_of": "Feb 2026",
+        "notes": "Entity-level aggregation across Tier-1 IT corridors (ORR, Whitefield, E-City)."
+      }
+    ],
+    "share_of_new_gccs_pct": 38,
+    "share_source": "Nasscom-Zinnov GCC Pulse 2026",
+    "share_source_url": "https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07",
+    "share_as_of": "FY26",
+    "office_rent": {
+      "min_inr_sqft_mo": 85,
+      "max_inr_sqft_mo": 185,
+      "blended_avg_inr": 125,
+      "unit": "INR / sq ft / month",
+      "source": "CBRE & JLL India Prime Office Tracker",
+      "source_url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+      "as_of": "Q4 2025",
+      "confidence": "Reported"
+    },
+    "talent_cost": {
+      "level": "Premium (Highest in India)",
+      "discount_vs_bengaluru_pct": 0,
+      "junior_swe_lpa": "₹8 – 16 LPA",
+      "senior_lead_lpa": "₹32 – 62 LPA",
+      "director_lpa": "₹75 – 150 LPA",
+      "source": "Flexiple Tech Hiring & Mercer GCC Compensation Index",
+      "source_url": "https://flexiple.com/gcc/statistics",
+      "as_of": "2026",
+      "confidence": "Estimated"
+    },
+    "state_incentives": {
+      "policy_name": "Karnataka GCC Policy 2024–2029",
+      "policy_url": "https://itbtst.karnataka.gov.in/",
+      "as_of": "Nov 2024",
+      "summary": "Targeted goal of 500 new GCCs; anchor investor incentives up to ₹100 Cr, capital subsidies, and Beyond Bengaluru package.",
+      "power_tariff_subsidy": "₹1.50 per unit rebate for 5 years for greenfield investments.",
+      "stamp_duty_exemption": "50% to 100% reimbursement on land lease/purchase in designated tech zones.",
+      "employment_grant": "Reimbursement of up to ₹25,000 per local hire trained in emerging tech.",
+      "confidence": "Verified"
+    },
+    "key_sectors": [
+      "Pure Tech & Enterprise SaaS",
+      "Artificial Intelligence & LLM R&D",
+      "Semiconductor & Chip Design",
+      "Aerospace & Defense Engineering",
+      "Global Retail & E-Commerce Tech"
+    ],
+    "top_employers": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Boeing",
+      "Goldman Sachs",
+      "Walmart Global Tech",
+      "Intel"
+    ],
+    "key_micro_markets": [
+      "Outer Ring Road (ORR)",
+      "Whitefield",
+      "Electronic City",
+      "North Bengaluru (Aerospace SEZ)"
+    ],
+    "score_metrics": {
+      "cost_efficiency": 6.2,
+      "talent_depth": 9.9,
+      "speed_to_hire": 9.5,
+      "incentives": 8,
+      "ecosystem_maturity": 10
+    },
+    "gcc_count_confidence": "Reported",
+    "share_confidence": "Reported"
+  },
+  {
+    "id": "hyderabad",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "region": "South India",
+    "tagline": "Fastest-Growing GCC Hub with World-Class Infrastructure",
+    "gcc_count_primary": 550,
+    "gcc_count_source": "Telangana IT & ITeS Department Annual Report & Flexiple",
+    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_as_of": "Q1 2026",
+    "units_count_estimate": 780,
+    "disparity_evidence": [
+      {
+        "source": "Vestian Realty Report",
+        "figure": "273 GCCs",
+        "market_share": "16%",
+        "url": "https://www.theweek.in/wire-updates/business/2025/07/21/dcm52-biz-realty-gcc.html",
+        "as_of": "Jul 2025",
+        "notes": "Restricted to standalone large corporate entity registrations."
+      },
+      {
+        "source": "JLL India GCC Guide 2026",
+        "figure": "20–23% share",
+        "market_share": "22%",
+        "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+        "as_of": "Jan 2026",
+        "notes": "Tracks square footage absorption and active business campus leases."
+      },
+      {
+        "source": "Flexiple GCC Directory",
+        "figure": "~550 GCCs",
+        "market_share": "~24%",
+        "url": "https://flexiple.com/gcc/statistics",
+        "as_of": "Feb 2026",
+        "notes": "HITEC City, Financial District, and Kokapet corridor aggregate count."
+      }
+    ],
+    "share_of_new_gccs_pct": 23,
+    "share_source": "Nasscom-Zinnov GCC Pulse 2026",
+    "share_source_url": "https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07",
+    "share_as_of": "FY26",
+    "office_rent": {
+      "min_inr_sqft_mo": 65,
+      "max_inr_sqft_mo": 125,
+      "blended_avg_inr": 88,
+      "unit": "INR / sq ft / month",
+      "source": "Knight Frank India Office Market Report",
+      "source_url": "https://www.knightfrank.co.in/research",
+      "as_of": "Q4 2025",
+      "confidence": "Reported"
+    },
+    "talent_cost": {
+      "level": "Competitive (12–15% lower than BLR)",
+      "discount_vs_bengaluru_pct": 14,
+      "junior_swe_lpa": "₹6.5 – 13 LPA",
+      "senior_lead_lpa": "₹26 – 48 LPA",
+      "director_lpa": "₹60 – 120 LPA",
+      "source": "Flexiple Tech Benchmarks & TeamLease Digital",
+      "source_url": "https://flexiple.com/gcc/statistics",
+      "as_of": "2026",
+      "confidence": "Estimated"
+    },
+    "state_incentives": {
+      "policy_name": "Telangana ICT Policy 2.0 & TS-iPASS Framework",
+      "policy_url": "https://it.telangana.gov.in/",
+      "as_of": "Jan 2025",
+      "summary": "Fastest statutory clearance window in India (TS-iPASS under 15 days), mega-project customized incentive agreements.",
+      "power_tariff_subsidy": "₹1.50 per unit subsidy for IT/GCC installations for 5 years.",
+      "stamp_duty_exemption": "100% exemption on first lease and purchase of property in notified IT clusters.",
+      "employment_grant": "Patent filing incentives (up to ₹10 Lakhs) and skilling grants via TASK (Telangana Academy for Skill and Knowledge).",
+      "confidence": "Verified"
+    },
+    "key_sectors": [
+      "Life Sciences & Healthcare R&D",
+      "Cloud & Enterprise Software",
+      "FinTech & Global Investment Banking",
+      "Semiconductor & Wireless R&D",
+      "Cybersecurity"
+    ],
+    "top_employers": [
+      "Novartis",
+      "Qualcomm",
+      "Microsoft",
+      "Salesforce",
+      "JPMorgan Chase",
+      "Bristol Myers Squibb",
+      "Wells Fargo"
+    ],
+    "key_micro_markets": [
+      "HITEC City",
+      "Gachibowli (Financial District)",
+      "Kokapet (Neopolis)",
+      "Raidurg"
+    ],
+    "score_metrics": {
+      "cost_efficiency": 8.3,
+      "talent_depth": 9.1,
+      "speed_to_hire": 8.9,
+      "incentives": 9.4,
+      "ecosystem_maturity": 9.2
+    },
+    "gcc_count_confidence": "Reported",
+    "share_confidence": "Reported"
+  },
+  {
+    "id": "pune",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "region": "West India",
+    "tagline": "India's Engineering, Automotive & Industrial Tech Powerhouse",
+    "gcc_count_primary": 320,
+    "gcc_count_source": "Flexiple GCC Intelligence & Pune IT Forum",
+    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_as_of": "Q1 2026",
+    "units_count_estimate": 430,
+    "disparity_evidence": [
+      {
+        "source": "Vestian Realty Report",
+        "figure": "164 GCCs",
+        "market_share": "10%",
+        "url": "https://www.theweek.in/wire-updates/business/2025/07/21/dcm52-biz-realty-gcc.html",
+        "as_of": "Jul 2025",
+        "notes": "Filtered by distinct corporate leases above 50,000 sq ft."
+      },
+      {
+        "source": "JLL India GCC Guide 2026",
+        "figure": "12–14% share",
+        "market_share": "13%",
+        "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+        "as_of": "Jan 2026",
+        "notes": "Strong automotive software and banking shared service expansion."
+      },
+      {
+        "source": "Flexiple GCC Directory",
+        "figure": "~320 GCCs",
+        "market_share": "~14%",
+        "url": "https://flexiple.com/gcc/statistics",
+        "as_of": "Feb 2026",
+        "notes": "Hinjawadi, Kharadi, Magarpatta and Baner technology corridor aggregate."
+      }
+    ],
+    "share_of_new_gccs_pct": 13,
+    "share_source": "Nasscom-Zinnov GCC Pulse 2026",
+    "share_source_url": "https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07",
+    "share_as_of": "FY26",
+    "office_rent": {
+      "min_inr_sqft_mo": 60,
+      "max_inr_sqft_mo": 110,
+      "blended_avg_inr": 82,
+      "unit": "INR / sq ft / month",
+      "source": "Colliers India Office Market Snapshot",
+      "source_url": "https://www.colliers.com/en-in/research",
+      "as_of": "Q4 2025",
+      "confidence": "Reported"
+    },
+    "talent_cost": {
+      "level": "Moderate (18–22% lower than BLR)",
+      "discount_vs_bengaluru_pct": 20,
+      "junior_swe_lpa": "₹6 – 12 LPA",
+      "senior_lead_lpa": "₹24 – 45 LPA",
+      "director_lpa": "₹55 – 110 LPA",
+      "source": "Flexiple Tech Benchmarks & Aon GCC Salary Study",
+      "source_url": "https://flexiple.com/gcc/statistics",
+      "as_of": "2026",
+      "confidence": "Estimated"
+    },
+    "state_incentives": {
+      "policy_name": "Maharashtra IT/ITeS Policy 2023",
+      "policy_url": "https://di.maharashtra.gov.in/",
+      "as_of": "Jul 2023",
+      "summary": "Special focus on data centers, emerging tech, and Tier-2 spillover; stamp duty reductions and electricity duty exemption.",
+      "power_tariff_subsidy": "Industrial power tariffs applicable to ITeS units instead of commercial rates.",
+      "stamp_duty_exemption": "75% to 100% waiver on initial lease deeds and conveyance documents.",
+      "employment_grant": "EPF employer contribution assistance for emerging technology centers.",
+      "confidence": "Verified"
+    },
+    "key_sectors": [
+      "Automotive Software & Connected Mobility",
+      "Industrial Engineering & IoT",
+      "FinTech & Core Banking Platforms",
+      "Healthcare Technology & Medical Devices",
+      "Enterprise Cloud & Database Systems"
+    ],
+    "top_employers": [
+      "Barclays",
+      "Deutsche Bank",
+      "Mastercard",
+      "Siemens",
+      "Mercedes-Benz R&D",
+      "Snowflake",
+      "Fiserv"
+    ],
+    "key_micro_markets": [
+      "Hinjawadi Phase 1, 2, 3",
+      "Kharadi (EON Free Zone)",
+      "Magarpatta Cybercity",
+      "Baner-Balewadi"
+    ],
+    "score_metrics": {
+      "cost_efficiency": 8.7,
+      "talent_depth": 8.4,
+      "speed_to_hire": 8.5,
+      "incentives": 7.9,
+      "ecosystem_maturity": 8.6
+    },
+    "gcc_count_confidence": "Reported",
+    "share_confidence": "Reported"
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "tagline": "SaaS Capital, BFSI Operations Hub & Auto-Hardware Leader",
+    "gcc_count_primary": 280,
+    "gcc_count_source": "Guidance Tamil Nadu & Flexiple GCC Intelligence",
+    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_as_of": "Q1 2026",
+    "units_count_estimate": 390,
+    "disparity_evidence": [
+      {
+        "source": "Vestian Realty Report",
+        "figure": "141 GCCs",
+        "market_share": "8.5%",
+        "url": "https://www.theweek.in/wire-updates/business/2025/07/21/dcm52-biz-realty-gcc.html",
+        "as_of": "Jul 2025",
+        "notes": "Parent corporate entities with dedicated multi-year campus leases."
+      },
+      {
+        "source": "JLL India GCC Guide 2026",
+        "figure": "10–12% share",
+        "market_share": "11%",
+        "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+        "as_of": "Jan 2026",
+        "notes": "High retention rate; massive growth in OMR, Guindy, and Ambattur."
+      },
+      {
+        "source": "Flexiple GCC Directory",
+        "figure": "~280 GCCs",
+        "market_share": "~12%",
+        "url": "https://flexiple.com/gcc/statistics",
+        "as_of": "Feb 2026",
+        "notes": "Counts BFSI shared services, SaaS centers, and auto electronics GCCs."
+      }
+    ],
+    "share_of_new_gccs_pct": 11,
+    "share_source": "Nasscom-Zinnov GCC Pulse 2026",
+    "share_source_url": "https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07",
+    "share_as_of": "FY26",
+    "office_rent": {
+      "min_inr_sqft_mo": 55,
+      "max_inr_sqft_mo": 100,
+      "blended_avg_inr": 74,
+      "unit": "INR / sq ft / month",
+      "source": "Cushman & Wakefield Marketbeat Chennai",
+      "source_url": "https://www.cushmanwakefield.com/en/india/insights",
+      "as_of": "Q4 2025",
+      "confidence": "Reported"
+    },
+    "talent_cost": {
+      "level": "Very Cost Efficient (22–26% lower than BLR)",
+      "discount_vs_bengaluru_pct": 24,
+      "junior_swe_lpa": "₹5.5 – 11 LPA",
+      "senior_lead_lpa": "₹22 – 42 LPA",
+      "director_lpa": "₹50 – 100 LPA",
+      "source": "Flexiple Tech Benchmarks & Michael Page GCC Guide",
+      "source_url": "https://flexiple.com/gcc/statistics",
+      "as_of": "2026",
+      "confidence": "Estimated"
+    },
+    "state_incentives": {
+      "policy_name": "Tamil Nadu Global Capability Centres Policy 2024",
+      "policy_url": "https://investingintamilnadu.com/",
+      "as_of": "Aug 2024",
+      "summary": "First dedicated state GCC policy in India. Direct payroll subsidies, skilling grants, and capital subsidies up to 25%.",
+      "power_tariff_subsidy": "100% electricity tax exemption for 5 years from operational date.",
+      "stamp_duty_exemption": "100% stamp duty exemption in A, B, and C districts.",
+      "employment_grant": "Payroll subsidy of ₹20,000/month/employee for up to 12 months for qualified R&D personnel.",
+      "confidence": "Verified"
+    },
+    "key_sectors": [
+      "BFSI Operations & Compliance",
+      "Enterprise SaaS & Developer Tools",
+      "Automotive Software & EV Systems",
+      "Healthcare Analytics & Clinical Ops",
+      "Supply Chain & Retail Tech"
+    ],
+    "top_employers": [
+      "Standard Chartered GBS",
+      "PayPal",
+      "Bank of America",
+      "AstraZeneca",
+      "Pfizer",
+      "Walmart Global Tech",
+      "Société Générale"
+    ],
+    "key_micro_markets": [
+      "Old Mahabalipuram Road (OMR)",
+      "Guindy & Mount Poonamallee",
+      "Ambattur IT Park",
+      "Taramani (Ascendas)"
+    ],
+    "score_metrics": {
+      "cost_efficiency": 9.4,
+      "talent_depth": 8,
+      "speed_to_hire": 8.2,
+      "incentives": 9.6,
+      "ecosystem_maturity": 8.5
+    },
+    "gcc_count_confidence": "Reported",
+    "share_confidence": "Reported"
+  },
+  {
+    "id": "delhi-ncr",
+    "name": "Delhi NCR",
+    "state": "Haryana & Uttar Pradesh",
+    "region": "North India",
+    "tagline": "National Capital Region: Corporate Strategy, Consulting & FinTech Ops",
+    "gcc_count_primary": 340,
+    "gcc_count_source": "Flexiple GCC Intelligence & NCR Chamber of Commerce",
+    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_as_of": "Q1 2026",
+    "units_count_estimate": 450,
+    "disparity_evidence": [
+      {
+        "source": "Vestian Realty Report",
+        "figure": "182 GCCs",
+        "market_share": "11%",
+        "url": "https://www.theweek.in/wire-updates/business/2025/07/21/dcm52-biz-realty-gcc.html",
+        "as_of": "Jul 2025",
+        "notes": "Consolidates Gurugram, Noida, and New Delhi corporate entities."
+      },
+      {
+        "source": "JLL India GCC Guide 2026",
+        "figure": "10–12% share",
+        "market_share": "10%",
+        "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+        "as_of": "Jan 2026",
+        "notes": "Tracks DLF Cyber City, Golf Course Ext, and Noida Expressway."
+      },
+      {
+        "source": "Flexiple GCC Directory",
+        "figure": "~340 GCCs",
+        "market_share": "~15%",
+        "url": "https://flexiple.com/gcc/statistics",
+        "as_of": "Feb 2026",
+        "notes": "Strong concentration of big data analytics, risk, and corporate finance GCCs."
+      }
+    ],
+    "share_of_new_gccs_pct": 10,
+    "share_source": "Nasscom-Zinnov GCC Pulse 2026",
+    "share_source_url": "https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07",
+    "share_as_of": "FY26",
+    "office_rent": {
+      "min_inr_sqft_mo": 70,
+      "max_inr_sqft_mo": 170,
+      "blended_avg_inr": 115,
+      "unit": "INR / sq ft / month",
+      "source": "CBRE India Office Figures NCR",
+      "source_url": "https://www.cbre.co.in/insights",
+      "as_of": "Q4 2025",
+      "confidence": "Reported"
+    },
+    "talent_cost": {
+      "level": "High (close to BLR for corporate leadership)",
+      "discount_vs_bengaluru_pct": 5,
+      "junior_swe_lpa": "₹7 – 14 LPA",
+      "senior_lead_lpa": "₹28 – 54 LPA",
+      "director_lpa": "₹68 – 140 LPA",
+      "source": "Flexiple Tech Benchmarks & Korn Ferry GCC Salary Pulse",
+      "source_url": "https://flexiple.com/gcc/statistics",
+      "as_of": "2026",
+      "confidence": "Estimated"
+    },
+    "state_incentives": {
+      "policy_name": "Haryana Enterprises & Employment Policy / UP IT Policy 2022–2027",
+      "policy_url": "https://haryanainvest.gov.in/",
+      "as_of": "Jan 2025",
+      "summary": "Dual-state ecosystem: Haryana offers SGST subsidies; UP provides capital interest subsidies (up to 5% for 7 years) and land rebates.",
+      "power_tariff_subsidy": "₹2.00 per unit power concession for 5 years in notified industrial tech zones.",
+      "stamp_duty_exemption": "Up to 100% stamp duty reimbursement in Noida/Greater Noida IT corridors.",
+      "employment_grant": "₹48,000/year/employee employment generation subsidy for Haryana residents.",
+      "confidence": "Verified"
+    },
+    "key_sectors": [
+      "Financial Analytics & Risk Modeling",
+      "Corporate Strategy & Business Operations",
+      "Telecom & Digital Media Engineering",
+      "Consumer Tech & Big Data",
+      "Healthcare Operations & Payor Tech"
+    ],
+    "top_employers": [
+      "American Express",
+      "Optum",
+      "NatWest Group",
+      "Adobe Systems",
+      "Mastercard",
+      "Honeywell",
+      "Citigroup"
+    ],
+    "key_micro_markets": [
+      "DLF Cyber City (Gurugram)",
+      "Golf Course Extension Road",
+      "Noida-Greater Noida Expressway (Sec 125-135)",
+      "Aerocity"
+    ],
+    "score_metrics": {
+      "cost_efficiency": 7,
+      "talent_depth": 8.8,
+      "speed_to_hire": 8.6,
+      "incentives": 7.6,
+      "ecosystem_maturity": 8.9
+    },
+    "gcc_count_confidence": "Reported",
+    "share_confidence": "Reported"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai (MMR)",
+    "state": "Maharashtra",
+    "region": "West India",
+    "tagline": "Financial Capital of India: Investment Banking, Treasury & Elite Corporate GCCs",
+    "gcc_count_primary": 210,
+    "gcc_count_source": "Flexiple GCC Intelligence & Mumbai Metropolitan Region Authority",
+    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_as_of": "Q1 2026",
+    "units_count_estimate": 290,
+    "disparity_evidence": [
+      {
+        "source": "Vestian Realty Report",
+        "figure": "118 GCCs",
+        "market_share": "7%",
+        "url": "https://www.theweek.in/wire-updates/business/2025/07/21/dcm52-biz-realty-gcc.html",
+        "as_of": "Jul 2025",
+        "notes": "Predominantly tier-1 investment bank global solution centers in BKC and Powai."
+      },
+      {
+        "source": "JLL India GCC Guide 2026",
+        "figure": "5–6% share",
+        "market_share": "5%",
+        "url": "https://www.jll.com/en-in/newsroom/india-s-gcc-expansion-hits-record-31-million",
+        "as_of": "Jan 2026",
+        "notes": "High rental premium; expansion shifting eastward to Navi Mumbai (Airoli)."
+      },
+      {
+        "source": "Flexiple GCC Directory",
+        "figure": "~210 GCCs",
+        "market_share": "~9%",
+        "url": "https://flexiple.com/gcc/statistics",
+        "as_of": "Feb 2026",
+        "notes": "Includes BKC, Lower Parel, Mindspace Malad, and Navi Mumbai IT hubs."
+      }
+    ],
+    "share_of_new_gccs_pct": 5,
+    "share_source": "Nasscom-Zinnov GCC Pulse 2026",
+    "share_source_url": "https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07",
+    "share_as_of": "FY26",
+    "office_rent": {
+      "min_inr_sqft_mo": 110,
+      "max_inr_sqft_mo": 290,
+      "blended_avg_inr": 185,
+      "unit": "INR / sq ft / month",
+      "source": "JLL Prime Global Cities Index - Mumbai",
+      "source_url": "https://www.jll.com/en-in/newsroom",
+      "as_of": "Q4 2025",
+      "confidence": "Reported"
+    },
+    "talent_cost": {
+      "level": "Premium (Highest for quantitative & executive talent)",
+      "discount_vs_bengaluru_pct": -2,
+      "junior_swe_lpa": "₹7.5 – 15 LPA",
+      "senior_lead_lpa": "₹30 – 60 LPA",
+      "director_lpa": "₹80 – 165 LPA",
+      "source": "Flexiple Tech Benchmarks & Michael Page Banking Compensation",
+      "source_url": "https://flexiple.com/gcc/statistics",
+      "as_of": "2026",
+      "confidence": "Estimated"
+    },
+    "state_incentives": {
+      "policy_name": "Maharashtra IT/ITeS Policy 2023 (MMR & Navi Mumbai Zone)",
+      "policy_url": "https://di.maharashtra.gov.in/",
+      "as_of": "Jul 2023",
+      "summary": "Special FSI incentives for IT parks in Navi Mumbai, Thane and suburban belts; industrial electricity tariffs.",
+      "power_tariff_subsidy": "Industrial rate categorization for designated IT/fintech campus operations.",
+      "stamp_duty_exemption": "50% stamp duty waiver in Mumbai suburban; up to 100% in Navi Mumbai.",
+      "employment_grant": "Targeted skilling assistance for financial technology and quantitative risk professionals.",
+      "confidence": "Verified"
+    },
+    "key_sectors": [
+      "Global Investment Banking & Capital Markets",
+      "Quantitative Trading & Risk Analytics",
+      "Private Equity & Asset Management Operations",
+      "Media, Entertainment & Creative Tech",
+      "Insurance & Global Treasury Services"
+    ],
+    "top_employers": [
+      "Morgan Stanley",
+      "JPMorgan Chase",
+      "Citigroup",
+      "BNP Paribas",
+      "UBS",
+      "Bank of America",
+      "Johnson & Johnson"
+    ],
+    "key_micro_markets": [
+      "Bandra-Kurla Complex (BKC)",
+      "Powai (Hiranandani Tech)",
+      "Lower Parel & Worli",
+      "Navi Mumbai (Airoli & Ghansoli)"
+    ],
+    "score_metrics": {
+      "cost_efficiency": 5.4,
+      "talent_depth": 9.4,
+      "speed_to_hire": 8,
+      "incentives": 6.8,
+      "ecosystem_maturity": 9.5
+    },
+    "gcc_count_confidence": "Reported",
+    "share_confidence": "Reported"
+  }
+]
