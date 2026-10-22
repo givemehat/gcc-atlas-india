@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GCC Atlas India - Strategic Product Deck</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+    @page {
+      size: 16in 9in;
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #FBFBF9;
+      color: #1C1917;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .slide {
+      width: 16in;
+      height: 9in;
+      page-break-after: always;
+      padding: 0.75in 0.9in;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      background: #FBFBF9;
+      border-bottom: 1px solid #E7E5E4;
+    }
+
+    .slide-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-bottom: 2px solid #E7E5E4;
+      padding-bottom: 0.25in;
+      margin-bottom: 0.35in;
+    }
+
+    .category-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #B45309;
+      font-weight: 600;
+    }
+
+    .slide-title {
+      font-family: 'Newsreader', Georgia, serif;
+      font-size: 42px;
+      font-weight: 700;
+      color: #0C0A09;
+      line-height: 1.15;
+      margin-top: 4px;
+    }
+
+    .slide-subtitle {
+      font-size: 15px;
+      color: #57534E;
+      max-width: 520px;
+      text-align: right;
+      line-height: 1.4;
+    }
+
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 0.5in;
+      flex: 1;
+      align-items: center;
+    }
+
+    .content-grid-even {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.45in;
+      flex: 1;
+      align-items: stretch;
+    }
+
+    .card {
+      background: #FFFFFF;
+      border: 1px solid #E7E5E4;
+      border-radius: 8px;
+      padding: 0.3in;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .card-accent {
+      background: #FEF3C7;
+      border: 1px solid #FDE68A;
+      border-radius: 8px;
+      padding: 0.25in 0.3in;
+    }
+
+    .screenshot-frame {
+      background: #FFFFFF;
+      border: 1px solid #D6D3D1;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .screenshot-frame img {
+      width: 100%;
+      height: auto;
+      display: block;
+      object-fit: cover;
+    }
+
+    .screenshot-caption {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: #78716C;
+      background: #F5F5F4;
+      padding: 8px 12px;
+      border-top: 1px solid #E7E5E4;
+    }
+
+    h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #1C1917;
+      margin-bottom: 8px;
+    }
+
+    p, li {
+      font-size: 14px;
+      line-height: 1.55;
+      color: #44403C;
+    }
+
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    ul li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 8px;
+    }
+
+    ul li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: #B45309;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    .stat-badge {
+      display: inline-block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    .badge-green { background: #DCFCE7; color: #14532D; border: 1px solid #86EFAC; }
+    .badge-amber { background: #FEF3C7; color: #78350F; border: 1px solid #FCD34D; }
+    .badge-blue { background: #E0F2FE; color: #0369A1; border: 1px solid #7DD3FC; }
+
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid #E7E5E4;
+      padding-top: 0.15in;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: #A8A29E;
+    }
+
+    .slide-footer a {
+      color: #44403C;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- SLIDE 1: TITLE SLIDE -->
+  <div class="slide" style="justify-content: center; text-align: left; padding: 1.2in;">
+    <div style="max-width: 900px;">
+      <div class="category-tag" style="font-size: 15px; margin-bottom: 12px;">Product Assignment • Flexiple Review</div>
+      <h1 style="font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700; color: #0C0A09; line-height: 1.1; margin-bottom: 16px;">
+        GCC Atlas India
+      </h1>
+      <p style="font-size: 22px; color: #44403C; margin-bottom: 32px; line-height: 1.4;">
+        A neutral, sourced reference and decision guide for India’s Global Capability Centres.
+      </p>
+
+      <div style="background: #FFFFFF; border: 1px solid #E7E5E4; border-radius: 8px; padding: 20px 24px; display: inline-flex; gap: 40px; margin-bottom: 36px; box-shadow: 0 1px 3px rgba(0,0,0,0.03);">
+        <div>
+          <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: uppercase; color: #78716C; display: block;">Applicant</span>
+          <strong style="font-size: 15px; color: #0C0A09;">Rajnish</strong>
+        </div>
+        <div>
+          <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: uppercase; color: #78716C; display: block;">Core Promise</span>
+          <strong style="font-size: 15px; color: #B45309;">"Every GCC in India, every number sourced."</strong>
+        </div>
+        <div>
+          <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: uppercase; color: #78716C; display: block;">Dataset Status</span>
+          <strong style="font-size: 15px; color: #15803D;">149 Audited Records • 6 Primary Metros</strong>
+        </div>
+      </div>
+
+      <div style="font-family: 'JetBrains Mono', monospace; font-size: 13px; color: #57534E; line-height: 1.6;">
+        <div>🌐 <strong>Live Application:</strong> <a href="https://givemehat.github.io/gcc-atlas-india/" style="color: #0369A1;">https://givemehat.github.io/gcc-atlas-india/</a></div>
+        <div>📦 <strong>Source Code & Audit Log:</strong> <a href="https://github.com/givemehat/gcc-atlas-india" style="color: #0369A1;">https://github.com/givemehat/gcc-atlas-india</a></div>
+      </div>
+    </div>
+
+    <div class="slide-footer" style="position: absolute; bottom: 0.5in; left: 0.9in; right: 0.9in;">
+      <span>GCC Atlas India • Executive Presentation</span>
+      <span>October 2026</span>
+    </div>
+  </div>
+
+  <!-- SLIDE 2: ECOSYSTEM FOUNDATION -->
+  <div class="slide">
+    <div class="slide-header">
+      <div>
+        <div class="category-tag">Market Scale & Ground Truth</div>
+        <h2 class="slide-title">The National Footprint: Sourced Facts vs Forecasts</h2>
+      </div>
+      <div class="slide-subtitle">
+        Strict source separation: Nasscom-Zinnov FY26 benchmark figures vs JLL commercial real estate projections.
+      </div>
+    </div>
+
+    <div class="content-grid-even">
+      <div class="card" style="display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+            <span class="category-tag" style="color: #15803D;">National Baseline</span>
+            <span class="stat-badge badge-green">Nasscom-Zinnov FY26</span>
+          </div>
+          <h3 style="font-size: 22px; margin-bottom: 16px;">Verified National Baseline</h3>
+          <ul style="space-y: 12px;">
+            <li><strong>2,117 GCC Corporate Parents:</strong> Operating capability centres across Indian metros.</li>
+            <li><strong>3,728 Operating Units:</strong> Distinct physical business campuses and functional centres.</li>
+            <li><strong>2.36 Million Professionals:</strong> High-skill software engineers, data scientists, and quantitative analysts.</li>
+            <li><strong>~$98.4B Annual Value:</strong> Direct economic output delivered to parent multinational headquarters.</li>
+          </ul>
+        </div>
+        <div style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #78716C; padding-top: 12px; border-top: 1px solid #F5F5F4;">
+          Source: Nasscom-Zinnov Strategic GCC Pulse Report (FY26)
+        </div>
+      </div>
+
+      <div class="card" style="display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+            <span class="category-tag" style="color: #0369A1;">Commercial Real Estate Perspective</span>
+            <span class="stat-badge badge-blue">JLL India 2026</span>
+          </div>
+          <h3 style="font-size: 22px; margin-bottom: 16px;">Expansion Forecasts & Leasing</h3>
+          <ul style="space-y: 12px;">
+            <li><strong>200+ New Units Projected:</strong> Estimated by JLL over a 24-month horizon across Tier-1 and emerging hubs.</li>
+            <li><strong>Leasing Density:</strong> Bengaluru and Hyderabad account for over 55% of all new Grade A absorption deeds.</li>
+            <li><strong>Unit vs Parent Discrepancy:</strong> Real estate tracking counts individual commercial floor leases, leading to higher counts than corporate parent registrations.</li>
+          </ul>
+        </div>
+        <div style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #78716C; padding-top: 12px; border-top: 1px solid #F5F5F4;">
+          Source: JLL India GCC Absorption Tracker (Jan 2026)
+        </div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span>Slide 2 of 7</span>
+      <span>Nasscom-Zinnov FY26 & JLL 2026 Verified Data</span>
+    </div>
+  </div>
+
+  <!-- SLIDE 3: THE PROBLEM -->
+  <div class="slide">
+    <div class="slide-header">
+      <div>
+        <div class="category-tag">Section 1</div>
+        <h2 class="slide-title">The Problem</h2>
+      </div>
+      <div class="slide-subtitle">
+        Asymmetrical reporting and fragmented data force entrant companies to navigate a complex, broker-driven setup chain.
+      </div>
+    </div>
+
+    <div class="content-grid">
+      <div style="space-y: 16px;">
+        <div class="card">
+          <h3>The Players in the Long Chain</h3>
+          <p style="margin-bottom: 8px;">
+            Global entrants deal with a fragmented web: commercial landlords, legal advisors, tax auditors, BOT operators, recruiters, EOR platforms, and state IT promotion agencies.
+          </p>
+          <p>
+            <strong>The Epistemic Disparity:</strong> Reports publish conflicting counts for the exact same city without underlying entity data.
+            In Bengaluru, <em>Vestian reports 487 GCCs</em> (standalone parent leases), <em>JLL reports 900+ units</em> (physical business branches), while <em>Flexiple lists ~870 entities</em>.
+          </p>
+        </div>
+
+        <div class="card-accent">
+          <h3 style="color: #92400E;">Who is Hurt by the Asymmetry?</h3>
+          <ul style="margin-top: 8px;">
+            <li><strong>Global Entrant CXO (Hypothesis for Discovery):</strong> Lacks an uncorrupted single source of truth; spends months in feasibility cycles and risks misallocating micro-markets based on commercial broker sales pitches.</li>
+            <li><strong>Legitimate Service Providers:</strong> Quality boutique BOT advisors lose bids to aggressive brand marketing rather than verified delivery outcomes.</li>
+            <li><strong>What They Do Today:</strong> Rely almost entirely on informal referrals, word-of-mouth WhatsApp advice, and PDF consultant reports.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="screenshot-frame">
+        <img src="public/screenshots/01_overview_home.png" alt="Overview Epistemic Gap">
+        <div class="screenshot-caption">
+          Live Feature: Sourced "Why the numbers differ" Disparity Panel on Home Page
+        </div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span>Slide 3 of 7</span>
+      <span>The Problem • Defined With Entity Evidence</span>
+    </div>
+  </div>
+
+  <!-- SLIDE 4: THE OPPORTUNITIES -->
+  <div class="slide">
+    <div class="slide-header">
+      <div>
+        <div class="category-tag">Section 2</div>
+        <h2 class="slide-title">The Opportunities</h2>
+      </div>
+      <div class="slide-subtitle">
+        7 ecosystem vectors identified. Why the entity registry and location recommender matter most.
+      </div>
+    </div>
+
+    <div class="content-grid-even">
+      <div class="card">
+        <span class="category-tag" style="color: #15803D;">Strategic Prioritization</span>
+        <h3 style="margin: 8px 0 16px 0; font-size: 20px;">Which Opportunities Matter Most & Why</h3>
+        
+        <div style="margin-bottom: 16px;">
+          <strong style="color: #0C0A09;">1. Entity-Level Sourced Registry (Priority #1):</strong>
+          <p style="font-size: 13px; margin-top: 4px;">
+            <em>Why:</em> Trust is the prerequisite. Without a verifiable list of actual companies, statutory citations, and honest confidence badges, no executive will trust a recommendation algorithm.
+          </p>
+        </div>
+
+        <div style="margin-bottom: 16px;">
+          <strong style="color: #0C0A09;">2. Deterministic Location Engine (Priority #2):</strong>
+          <p style="font-size: 13px; margin-top: 4px;">
+            <em>Why:</em> Captures uncorrupted entrant commercial intent (sector, team size, priority). CXOs get transparent scoring; future marketplace partners get qualified demand signals.
+          </p>
+        </div>
+
+        <div>
+          <strong style="color: #0C0A09;">3. Multi-Metro Cost & Policy Matrix (Priority #3):</strong>
+          <p style="font-size: 13px; margin-top: 4px;">
+            <em>Why:</em> Delivers immediate board-level clarity on commercial rents, talent compensation arbitrage, and state policy gazettes in seconds.
+          </p>
+        </div>
+      </div>
+
+      <div class="card" style="background: #FAFAF9;">
+        <span class="category-tag" style="color: #57534E;">Full Opportunity Landscape</span>
+        <h3 style="margin: 8px 0 16px 0; font-size: 20px;">The 7 Ecosystem Vectors</h3>
+        <ul style="space-y: 10px; font-size: 13px;">
+          <li><strong>A. Entity Sourced Registry:</strong> Public verified database of MNC capability centres.</li>
+          <li><strong>B. Deterministic Recommender:</strong> Rule-based location shortlist with visible math.</li>
+          <li><strong>C. City Comparator Matrix:</strong> Side-by-side rent, salary, and policy benchmarking.</li>
+          <li><strong>D. Regulatory Ingestion Pipeline (Future):</strong> Exploring scheduled MCA Form MGT-7 crawlers to detect newly incorporated subsidiaries.</li>
+          <li><strong>E. Talent Mobility Radar (Future):</strong> Analyzing leadership departures and corridor expansion signals.</li>
+          <li><strong>F. Audited Provider Directory:</strong> Case-study verified ecosystem advisors.</li>
+          <li><strong>G. Vetted RFP Marketplace:</strong> Transparent bids for setup and BOT operators.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span>Slide 4 of 7</span>
+      <span>The Opportunities • Ranked by Trust & User Intent</span>
+    </div>
+  </div>
+
+  <!-- SLIDE 5: THE SOLUTION (REGISTRY & COMPARATOR) -->
+  <div class="slide">
+    <div class="slide-header">
+      <div>
+        <div class="category-tag">Section 3 (Part 1)</div>
+        <h2 class="slide-title">The Solution: Audited Registry & City Compare</h2>
+      </div>
+      <div class="slide-subtitle">
+        Built for global CXOs deciding where to open. Grounded in actual audited corporate records.
+      </div>
+    </div>
+
+    <div class="content-grid">
+      <div style="space-y: 16px;">
+        <div class="card">
+          <h3>149 Audited GCC Records (Strict Data Honesty)</h3>
+          <p style="margin-bottom: 8px;">
+            Every single row has a company name, city, function, headcount, confidence badge, and a publicly verifiable source link.
+          </p>
+          <div style="background: #F5F5F4; padding: 10px 14px; border-radius: 6px; font-family: 'JetBrains Mono', monospace; font-size: 11px; margin-bottom: 10px;">
+            <strong>AUDIT.md Results:</strong> 126 Confirmed Unchanged (84.6%) • 20 Corrected to primary portals (13.4%) • 3 Nulled for honesty (2.0%) • 0 Fabricated
+          </div>
+          <p style="font-size: 13px; color: #57534E;">
+            Where data is not publicly stated by the MNC (e.g., Stripe India headcount & establishment year), fields are strictly kept <code>null</code> and displayed as <em>"Not available yet"</em>.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>6-City Head-to-Head Comparator Matrix</h3>
+          <p style="font-size: 13px;">
+            Side-by-side benchmarking across Bengaluru, Hyderabad, Pune, Chennai, Delhi NCR, and Mumbai:
+          </p>
+          <ul style="margin-top: 8px; font-size: 13px;">
+            <li><strong>Office Rents:</strong> Grade A blended averages and corridor min-max ranges.</li>
+            <li><strong>Talent Arbitrage:</strong> SWE salary bands with verified discounts vs Bengaluru baseline.</li>
+            <li><strong>State Policies:</strong> Direct links to official gazettes (Karnataka, Telangana, TN).</li>
+          </ul>
+        </div>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div class="screenshot-frame">
+          <img src="public/screenshots/02_entity_registry.png" alt="Entity Registry">
+          <div class="screenshot-caption">Live Feature: Entity Registry with Micro-market Quick Corridors & CSV Export</div>
+        </div>
+        <div class="screenshot-frame">
+          <img src="public/screenshots/03_city_compare.png" alt="City Comparator">
+          <div class="screenshot-caption">Live Feature: 6-City Matrix Comparator & Comparative Density SVG Chart</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span>Slide 5 of 7</span>
+      <span>The Solution • Entity Registry & Comparator Matrix</span>
+    </div>
+  </div>
+
+  <!-- SLIDE 6: THE SOLUTION (FIND MY CITY RECOMMENDER) -->
+  <div class="slide">
+    <div class="slide-header">
+      <div>
+        <div class="category-tag">Section 3 (Part 2)</div>
+        <h2 class="slide-title">The Solution: Deterministic Location Engine</h2>
+      </div>
+      <div class="slide-subtitle">
+        4-question criteria with 100% visible math. No black-box AI, no paid placement.
+      </div>
+    </div>
+
+    <div class="content-grid">
+      <div style="space-y: 16px;">
+        <div class="card">
+          <h3>4 Strategic Input Parameters</h3>
+          <ul style="font-size: 13px;">
+            <li><strong>1. Industry Sector:</strong> Tech/SaaS, BFSI, Healthcare/Pharma, Auto/Manufacturing, Aerospace, Retail.</li>
+            <li><strong>2. Planned Team Size in 3 Years:</strong> &lt;100 (Seed pod), 100-500 (Growth), 500-2,000, 2,000+.</li>
+            <li><strong>3. Centre Mandate:</strong> Core Software/AI, Finance & Risk, Hardware/R&D, Operations.</li>
+            <li><strong>4. Decisive Priority (40% Weight):</strong> Cost Arbitrage, Talent Depth, Speed to Hire, State Subsidies.</li>
+          </ul>
+        </div>
+
+        <div class="card-accent">
+          <h3 style="color: #92400E;">Transparent Mathematical Scoring Rule</h3>
+          <div style="background: #FFFFFF; padding: 8px 12px; border-radius: 4px; font-family: 'JetBrains Mono', monospace; font-size: 11px; margin: 8px 0; color: #1C1917;">
+            Total Score = (Priority Metric × 4.0) + Sector Fit (25) + Function Fit (20) + Scale Factor (15) + Base Ecosystem (10)
+          </div>
+          <p style="font-size: 12px; color: #78350F;">
+            Generates a ranked Top 3 shortlist with plain-language rank justifications, real peer GCC anchors, and honest CXO caveats (e.g., ORR traffic density, BKC rent premiums).
+          </p>
+        </div>
+      </div>
+
+      <div class="screenshot-frame">
+        <img src="public/screenshots/04_find_my_city.png" alt="Find My City Recommender">
+        <div class="screenshot-caption">Live Feature: Find My City Wizard with Transparent Point Breakdown Table</div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span>Slide 6 of 7</span>
+      <span>The Solution • Deterministic Location Recommender</span>
+    </div>
+  </div>
+
+  <!-- SLIDE 7: THE POSITIONING & ROADMAP -->
+  <div class="slide">
+    <div class="slide-header">
+      <div>
+        <div class="category-tag">Section 4</div>
+        <h2 class="slide-title">The Positioning: Sourced Reference & Neutrality</h2>
+      </div>
+      <div class="slide-subtitle">
+        Positioned as India's neutral GCC reference. Why each ecosystem stakeholder switches.
+      </div>
+    </div>
+
+    <div class="content-grid">
+      <div style="space-y: 16px;">
+        <div class="card">
+          <h3>Market Positioning: A Neutral, Sourced Reference</h3>
+          <p style="margin-bottom: 8px; font-size: 13px;">
+            <strong>The Neutrality Rule:</strong> Nobody can pay to change a score, alter a city ranking, or delete an honest caveat.
+          </p>
+          <p style="font-size: 13px;">
+            <strong>Entrant-Free Model:</strong> Global companies access 100% of data and tools without paywalls. Future monetization comes purely from vetted B2B service provider introduction fees.
+          </p>
+        </div>
+
+        <div class="card" style="background: #FAFAF9;">
+          <h3 style="font-size: 16px;">Why Stakeholders Switch to GCC Atlas</h3>
+          <ul style="font-size: 12px; space-y: 6px;">
+            <li><strong>Global Entrants:</strong> Free board-ready numbers; entity-level citations they can audit; zero broker bias.</li>
+            <li><strong>Vetted Setup Advisors & BOTs:</strong> High-intent inbound leads from CXOs who have already finalized their shortlist.</li>
+            <li><strong>Commercial Landlords:</strong> Real-time corridor-level demand intelligence (ORR, HITEC, Kharadi, BKC).</li>
+            <li><strong>State IT Promotion Boards:</strong> Sourced showcase of gazetted policy incentives delivered directly to active decision-makers.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="screenshot-frame">
+        <img src="public/screenshots/05_pitch_deck.png" alt="Strategic Pitch Deck">
+        <div class="screenshot-caption">Live Feature: Embedded Strategic Pitch Deck Viewer Inside GCC Atlas</div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span>Slide 7 of 7</span>
+      <span>The Positioning • Neutrality Charter & Stakeholder Alignment</span>
+    </div>
+  </div>
+
+</body>
+</html>

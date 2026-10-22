@@ -103,7 +103,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 </span>
               </div>
               <p className="text-xs text-stone-500 leading-snug">
-                Operating across <strong className="text-stone-800">3,728 units</strong> across India, expanding at 200+ new centres every 24 months.
+                Operating across <strong className="text-stone-800">3,728 units</strong> across India (Nasscom-Zinnov FY26); JLL projects 200+ new units over 24 months.
               </p>
               <div className="pt-2 text-[11px] text-stone-500 font-mono flex items-center justify-between">
                 <SourceTooltip

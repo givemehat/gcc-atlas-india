@@ -247,7 +247,7 @@ In strict compliance with the assignment rules:
 ---
 
 ## 👥 Product Assignment Contact
-- **Applicant**: Rajnish Singh
+- **Applicant**: Rajnish
 - **Target Role**: Product Intern, Flexiple
 - **Reviewers**: Hrishikesh (`hrishikesh@flexiple.com`) & Tanya (`tanya@flexiple.com`)
 - **Submission Date**: 22 October 2026
