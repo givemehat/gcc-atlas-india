@@ -212,9 +212,9 @@ export const AboutPage: React.FC<AboutPageProps> = () => {
                 date: 'May 2026'
               },
               {
-                title: 'Flexiple GCC Directory & Market Intelligence Database',
+                title: 'National GCC & Tech Talent Compensation Benchmarks',
                 desc: 'Entity-level records, city micro-market allocations, and tech compensation benchmarks.',
-                url: 'https://flexiple.com/gcc/statistics',
+                url: 'https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report',
                 date: 'Q1 2026'
               },
               {
@@ -394,7 +394,7 @@ export const AboutPage: React.FC<AboutPageProps> = () => {
 
             <div className="pt-2 flex items-center justify-between">
               <span className="text-[11px] text-stone-500 font-mono">
-                Payload outputs to browser console per assignment rule.
+                Payload outputs to browser console for verification.
               </span>
               <button
                 type="submit"

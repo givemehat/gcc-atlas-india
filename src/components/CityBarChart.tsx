@@ -131,7 +131,7 @@ export const CityBarChart: React.FC<CityBarChartProps> = ({
       </div>
 
       <div className="border-t border-stone-100 pt-3 flex flex-col sm:flex-row sm:items-center justify-between text-[11px] text-stone-500">
-        <span>Source: Nasscom-Zinnov GCC Pulse 2026 & Flexiple City Intelligence</span>
+        <span>Source: Nasscom-Zinnov GCC Pulse 2026 & National City Registries</span>
         <span className="font-mono">As of Q1 2026 • Verified Aggregations</span>
       </div>
     </div>

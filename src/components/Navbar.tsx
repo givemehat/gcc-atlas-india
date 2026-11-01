@@ -58,7 +58,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               GCC Atlas India
             </span>
             <span className="hidden sm:inline-block text-[11px] font-mono uppercase tracking-widest text-stone-600 border-l border-stone-300 pl-2">
-              Flexiple Single Source of Truth
+              Independent Single Source of Truth
             </span>
           </div>
 

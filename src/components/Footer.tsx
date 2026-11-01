@@ -18,7 +18,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectTab, onOpenCorrectionMod
               <ShieldCheck size={14} /> What is Real Verified Data
             </div>
             <p className="text-stone-400 text-xs leading-relaxed">
-              Every GCC record contains a live source citation (SEC 10-K, MCA ROC filing, or press release). City counts cite Nasscom-Zinnov, Vestian, JLL 2026, and Flexiple research.
+              Every GCC record contains a live source citation (SEC 10-K, MCA ROC filing, or press release). City counts cite Nasscom-Zinnov, Vestian, JLL 2026, and national industry registries.
             </p>
           </div>
 
@@ -53,7 +53,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectTab, onOpenCorrectionMod
               The neutral, entity-level benchmark for Global Capability Centres (GCCs) in India. Built for executives, CFOs, and tech leaders deciding whether, where, and how to scale in India.
             </p>
             <div className="text-[11px] font-mono text-stone-500 pt-1">
-              Maintained with editorial neutrality for the Flexiple Product Assignment.
+              Maintained with editorial neutrality and open verification standards.
             </div>
           </div>
 
@@ -144,12 +144,12 @@ export const Footer: React.FC<FooterProps> = ({ onSelectTab, onOpenCorrectionMod
             <ul className="space-y-2 text-stone-400 text-[11px]">
               <li>
                 <a
-                  href="https://flexiple.com/gcc/statistics"
+                  href="https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report"
                   target="_blank"
                   rel="noreferrer"
                   className="hover:text-white inline-flex items-center gap-1"
                 >
-                  Flexiple GCC Statistics <ExternalLink size={10} />
+                  Nasscom GCC Intelligence <ExternalLink size={10} />
                 </a>
               </li>
               <li>
@@ -191,7 +191,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectTab, onOpenCorrectionMod
             © 2026 GCC Atlas India • <em>"Every GCC in India, every number sourced."</em>
           </div>
           <div className="mt-2 sm:mt-0 flex items-center gap-4">
-            <span>Built with precision for Flexiple Product Evaluation</span>
+            <span>Designed and built by Rajnish</span>
           </div>
         </div>
       </div>

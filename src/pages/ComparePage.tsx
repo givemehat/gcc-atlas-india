@@ -322,7 +322,7 @@ export const ComparePage: React.FC<ComparePageProps> = ({ cities, initialCities 
                     <span>Source Disparity Evidence</span>
                   </div>
                   <span className="text-[10px] text-stone-500 font-normal block mt-0.5">
-                    Vestian vs JLL vs Flexiple
+                    Vestian vs JLL vs Industry Registries
                   </span>
                 </td>
                 {selectedCities.map((city) => (

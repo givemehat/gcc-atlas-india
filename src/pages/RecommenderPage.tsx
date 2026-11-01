@@ -528,7 +528,7 @@ export const RecommenderPage: React.FC<RecommenderPageProps> = ({
             })}
           </div>
 
-          {/* Visible "How this score was calculated" Section (Required by Assignment) */}
+          {/* Visible "How this score was calculated" Section */}
           <div className="bg-stone-50 border border-stone-200 rounded-lg p-6 space-y-4">
             <div className="flex items-center gap-2 text-stone-900 font-mono text-xs font-semibold uppercase tracking-wider">
               <ShieldCheck size={16} className="text-emerald-700" />

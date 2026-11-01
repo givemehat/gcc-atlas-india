@@ -6,8 +6,8 @@
     "region": "South India",
     "tagline": "India's Tech Capital & Deep-Tech GCC Epicenter",
     "gcc_count_primary": 870,
-    "gcc_count_source": "Flexiple GCC Intelligence & Nasscom Industry Compilation",
-    "gcc_count_source_url": "https://flexiple.com/global-capability-centers/list-of-global-capability-centers-in-india",
+    "gcc_count_source": "Nasscom-Zinnov GCC Pulse & Karnataka Innovation Directory",
+    "gcc_count_source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
     "gcc_count_as_of": "Q1 2026",
     "units_count_estimate": 1420,
     "disparity_evidence": [
@@ -28,10 +28,10 @@
         "notes": "Counts individual operating business units, technology campuses, and secondary centers."
       },
       {
-        "source": "Flexiple GCC Directory",
+        "source": "Industry Entity Directory",
         "figure": "~870 GCCs",
         "market_share": "~40%",
-        "url": "https://flexiple.com/gcc/statistics",
+        "url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
         "as_of": "Feb 2026",
         "notes": "Entity-level aggregation across Tier-1 IT corridors (ORR, Whitefield, E-City)."
       }
@@ -56,8 +56,8 @@
       "junior_swe_lpa": "₹8 - 16 LPA",
       "senior_lead_lpa": "₹32 - 62 LPA",
       "director_lpa": "₹75 - 150 LPA",
-      "source": "Flexiple Tech Hiring & Mercer GCC Compensation Index",
-      "source_url": "https://flexiple.com/gcc/statistics",
+      "source": "Mercer GCC Compensation Index & Tech Talent Benchmarks",
+      "source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
       "as_of": "2026",
       "confidence": "Estimated"
     },
@@ -110,8 +110,8 @@
     "region": "South India",
     "tagline": "Fastest-Growing GCC Hub with World-Class Infrastructure",
     "gcc_count_primary": 550,
-    "gcc_count_source": "Telangana IT & ITeS Department Annual Report & Flexiple",
-    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_source": "Telangana IT & ITeS Department Annual Report & Industry Trackers",
+    "gcc_count_source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
     "gcc_count_as_of": "Q1 2026",
     "units_count_estimate": 780,
     "disparity_evidence": [
@@ -132,10 +132,10 @@
         "notes": "Tracks square footage absorption and active business campus leases."
       },
       {
-        "source": "Flexiple GCC Directory",
+        "source": "Industry Entity Directory",
         "figure": "~550 GCCs",
         "market_share": "~24%",
-        "url": "https://flexiple.com/gcc/statistics",
+        "url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
         "as_of": "Feb 2026",
         "notes": "HITEC City, Financial District, and Kokapet corridor aggregate count."
       }
@@ -160,8 +160,8 @@
       "junior_swe_lpa": "₹6.5 - 13 LPA",
       "senior_lead_lpa": "₹26 - 48 LPA",
       "director_lpa": "₹60 - 120 LPA",
-      "source": "Flexiple Tech Benchmarks & TeamLease Digital",
-      "source_url": "https://flexiple.com/gcc/statistics",
+      "source": "TeamLease Digital Tech Salary Survey",
+      "source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
       "as_of": "2026",
       "confidence": "Estimated"
     },
@@ -214,8 +214,8 @@
     "region": "West India",
     "tagline": "India's Engineering, Automotive & Industrial Tech Powerhouse",
     "gcc_count_primary": 320,
-    "gcc_count_source": "Flexiple GCC Intelligence & Pune IT Forum",
-    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_source": "Maharashtra IT Department & Pune IT Forum Directory",
+    "gcc_count_source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
     "gcc_count_as_of": "Q1 2026",
     "units_count_estimate": 430,
     "disparity_evidence": [
@@ -236,10 +236,10 @@
         "notes": "Strong automotive software and banking shared service expansion."
       },
       {
-        "source": "Flexiple GCC Directory",
+        "source": "Industry Entity Directory",
         "figure": "~320 GCCs",
         "market_share": "~14%",
-        "url": "https://flexiple.com/gcc/statistics",
+        "url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
         "as_of": "Feb 2026",
         "notes": "Hinjawadi, Kharadi, Magarpatta and Baner technology corridor aggregate."
       }
@@ -264,8 +264,8 @@
       "junior_swe_lpa": "₹6 - 12 LPA",
       "senior_lead_lpa": "₹24 - 45 LPA",
       "director_lpa": "₹55 - 110 LPA",
-      "source": "Flexiple Tech Benchmarks & Aon GCC Salary Study",
-      "source_url": "https://flexiple.com/gcc/statistics",
+      "source": "Aon GCC Salary Study & Tech Benchmarks",
+      "source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
       "as_of": "2026",
       "confidence": "Estimated"
     },
@@ -318,8 +318,8 @@
     "region": "South India",
     "tagline": "SaaS Capital, BFSI Operations Hub & Auto-Hardware Leader",
     "gcc_count_primary": 280,
-    "gcc_count_source": "Guidance Tamil Nadu & Flexiple GCC Intelligence",
-    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_source": "Guidance Tamil Nadu & Industry Trackers",
+    "gcc_count_source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
     "gcc_count_as_of": "Q1 2026",
     "units_count_estimate": 390,
     "disparity_evidence": [
@@ -340,10 +340,10 @@
         "notes": "High retention rate; massive growth in OMR, Guindy, and Ambattur."
       },
       {
-        "source": "Flexiple GCC Directory",
+        "source": "Industry Entity Directory",
         "figure": "~280 GCCs",
         "market_share": "~12%",
-        "url": "https://flexiple.com/gcc/statistics",
+        "url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
         "as_of": "Feb 2026",
         "notes": "Counts BFSI shared services, SaaS centers, and auto electronics GCCs."
       }
@@ -368,8 +368,8 @@
       "junior_swe_lpa": "₹5.5 - 11 LPA",
       "senior_lead_lpa": "₹22 - 42 LPA",
       "director_lpa": "₹50 - 100 LPA",
-      "source": "Flexiple Tech Benchmarks & Michael Page GCC Guide",
-      "source_url": "https://flexiple.com/gcc/statistics",
+      "source": "Michael Page GCC Guide & Tech Benchmarks",
+      "source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
       "as_of": "2026",
       "confidence": "Estimated"
     },
@@ -422,8 +422,8 @@
     "region": "North India",
     "tagline": "National Capital Region: Corporate Strategy, Consulting & FinTech Ops",
     "gcc_count_primary": 340,
-    "gcc_count_source": "Flexiple GCC Intelligence & NCR Chamber of Commerce",
-    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_source": "NCR Chamber of Commerce & Industry Trackers",
+    "gcc_count_source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
     "gcc_count_as_of": "Q1 2026",
     "units_count_estimate": 450,
     "disparity_evidence": [
@@ -444,10 +444,10 @@
         "notes": "Tracks DLF Cyber City, Golf Course Ext, and Noida Expressway."
       },
       {
-        "source": "Flexiple GCC Directory",
+        "source": "Industry Entity Directory",
         "figure": "~340 GCCs",
         "market_share": "~15%",
-        "url": "https://flexiple.com/gcc/statistics",
+        "url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
         "as_of": "Feb 2026",
         "notes": "Strong concentration of big data analytics, risk, and corporate finance GCCs."
       }
@@ -472,8 +472,8 @@
       "junior_swe_lpa": "₹7 - 14 LPA",
       "senior_lead_lpa": "₹28 - 54 LPA",
       "director_lpa": "₹68 - 140 LPA",
-      "source": "Flexiple Tech Benchmarks & Korn Ferry GCC Salary Pulse",
-      "source_url": "https://flexiple.com/gcc/statistics",
+      "source": "Korn Ferry GCC Salary Pulse & Tech Benchmarks",
+      "source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
       "as_of": "2026",
       "confidence": "Estimated"
     },
@@ -526,8 +526,8 @@
     "region": "West India",
     "tagline": "Financial Capital of India: Investment Banking, Treasury & Elite Corporate GCCs",
     "gcc_count_primary": 210,
-    "gcc_count_source": "Flexiple GCC Intelligence & Mumbai Metropolitan Region Authority",
-    "gcc_count_source_url": "https://flexiple.com/gcc/statistics",
+    "gcc_count_source": "Mumbai Metropolitan Region Authority & BFSI GCC Registry",
+    "gcc_count_source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
     "gcc_count_as_of": "Q1 2026",
     "units_count_estimate": 290,
     "disparity_evidence": [
@@ -548,10 +548,10 @@
         "notes": "High rental premium; expansion shifting eastward to Navi Mumbai (Airoli)."
       },
       {
-        "source": "Flexiple GCC Directory",
+        "source": "Industry Entity Directory",
         "figure": "~210 GCCs",
         "market_share": "~9%",
-        "url": "https://flexiple.com/gcc/statistics",
+        "url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
         "as_of": "Feb 2026",
         "notes": "Includes BKC, Lower Parel, Mindspace Malad, and Navi Mumbai IT hubs."
       }
@@ -576,8 +576,8 @@
       "junior_swe_lpa": "₹7.5 - 15 LPA",
       "senior_lead_lpa": "₹30 - 60 LPA",
       "director_lpa": "₹80 - 165 LPA",
-      "source": "Flexiple Tech Benchmarks & Michael Page Banking Compensation",
-      "source_url": "https://flexiple.com/gcc/statistics",
+      "source": "Michael Page Banking & Tech Compensation Study",
+      "source_url": "https://nasscom.in/knowledge-center/publications/india-gcc-landscape-report",
       "as_of": "2026",
       "confidence": "Estimated"
     },

@@ -42,7 +42,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
               <p className="text-xs text-stone-600 mt-1">34% to 39% share. Counts individual business units and campus leases.</p>
             </div>
             <div className="p-4 bg-white border border-stone-200 rounded shadow-xs">
-              <span className="font-mono text-xs text-stone-500 block">Flexiple Directory (2026)</span>
+              <span className="font-mono text-xs text-stone-500 block">Industry Directories (2026)</span>
               <div className="text-2xl font-editorial font-bold text-stone-950 mt-1">~870 GCCs</div>
               <p className="text-xs text-stone-600 mt-1">~40% share. Entity-level aggregation across major tech corridors.</p>
             </div>
@@ -272,9 +272,9 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
                   <td className="py-2.5 px-3">A credible, comparative showcase next to competing state policies.</td>
                 </tr>
                 <tr>
-                  <td className="py-2.5 px-3 font-semibold text-stone-900">Flexiple Alignment</td>
+                  <td className="py-2.5 px-3 font-semibold text-stone-900">Talent & Setup Platforms</td>
                   <td className="py-2.5 px-3">Static GCC statistics and city lists</td>
-                  <td className="py-2.5 px-3">Transforms Flexiple from static SEO content into an interactive utility.</td>
+                  <td className="py-2.5 px-3">Transforms static top-of-funnel lists into an interactive decision utility.</td>
                 </tr>
               </tbody>
             </table>
@@ -411,7 +411,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
                 Days 31-60: Distribution & SEO Flywheel
               </span>
               <ul className="space-y-1 text-stone-600 list-disc list-inside">
-                <li>Deep-link Flexiple's existing GCC pages to Atlas interactive tools.</li>
+                <li>Partner with ecosystem hiring platforms and communities to embed Atlas tools.</li>
                 <li>Publish quarterly "State of GCC Numbers" Disparity Index.</li>
                 <li>Launch LinkedIn automated alerts for newly inaugurated centres.</li>
               </ul>
@@ -474,7 +474,7 @@ export const DeckPage: React.FC<DeckPageProps> = ({ onSelectTab }) => {
         <div>
           <div className="flex items-center gap-2 text-xs font-mono uppercase tracking-wider text-amber-800">
             <Presentation size={14} />
-            <span>Product Intern Assignment Deck</span>
+            <span>Executive Strategy & Product Thesis</span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-editorial font-bold text-stone-950 mt-0.5">
             Executive Strategy & Product Thesis

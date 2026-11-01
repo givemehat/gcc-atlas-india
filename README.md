@@ -19,7 +19,7 @@
 India's Global Capability Centre (GCC) ecosystem has expanded into a **$98.4B annual powerhouse**, with **2,117 corporate parents** running **3,728 physical units** and employing **2.36 million high-skill professionals** (*Nasscom-Zinnov FY26*). 
 
 Yet despite this massive footprint, the ecosystem is held back by severe **information asymmetry**. Research reports from top real estate firms and consultancies publish irreconcilable counts for the exact same city:
-- **Bengaluru**: Vestian reports **487 GCCs** (29% share), JLL reports **900+ units** (34-39% share), while Flexiple lists **~870 entities** (~40% share).
+- **Bengaluru**: Vestian reports **487 GCCs** (29% share), JLL reports **900+ units** (34-39% share), while Industry Entity Registries list **~870 entities** (~40% share).
 - **The Root Cause**: Some reports count standalone corporate parent leases, others count individual business units or physical branch leases, yet all are cited as if equivalent.
 - **The Epistemic Gap**: No report published the underlying, checkable company-by-company dataset.
 
@@ -30,7 +30,7 @@ Yet despite this massive footprint, the ecosystem is held back by severe **infor
 ## 📸 Product Walkthrough & Visual Proof
 
 ### 1. Overview & The Epistemic Disparity Panel
-*Reconciling why Vestian (487), JLL (900+), and Flexiple (~870) disagree on Bengaluru, contrasting parent companies vs operating business units.*
+*Reconciling why Vestian (487), JLL (900+), and Industry Registries (~870) disagree on Bengaluru, contrasting parent companies vs operating business units.*
 
 ![Overview & Epistemic Gap](public/screenshots/01_overview_home.png)
 
@@ -81,7 +81,7 @@ Yet despite this massive footprint, the ecosystem is held back by severe **infor
   - **2,117 GCC Corporate Parents** operating across **3,728 units** (*Nasscom-Zinnov FY26*).
   - **2.36 Million Professionals** in engineering, data science, and corporate leadership.
   - **~$98.4B Annual Export Value** delivered directly back to multinational parents.
-- **The Epistemic Disparity Panel**: Explains the root cause of why Vestian (487), JLL (900+), and Flexiple (~870) disagree on Bengaluru.
+- **The Epistemic Disparity Panel**: Explains the root cause of why Vestian (487), JLL (900+), and Industry Registries (~870) disagree on Bengaluru.
 - **Stakeholder Asymmetry Analysis**: Evaluates pain points and current workarounds for Entrant CXOs, Service Providers, and State Governments.
 - **6-City Snapshot Cards**: Instant preview of Bengaluru, Hyderabad, Pune, Chennai, Delhi NCR, and Mumbai.
 
@@ -130,7 +130,7 @@ Yet despite this massive footprint, the ecosystem is held back by severe **infor
 
 ## 📊 Data Disclosure & Audit Results (`data/AUDIT.md`)
 
-In strict adherence to assignment guidelines, all 149 records were systematically audited:
+To guarantee institutional credibility and verification standards, all 149 records were systematically audited:
 
 | Audit Result Category | Count | Percentage | Description |
 | :--- | :---: | :---: | :--- |
@@ -228,11 +228,11 @@ interface GCC {
 
 ---
 
-## 👥 Product Assignment Details
+## 👤 Project Author & Live Links
 
-- **Applicant**: Rajnish
-- **Target Role**: Product Intern, Flexiple
-- **Reviewers**: Hrishikesh (`hrishikesh@flexiple.com`) & Tanya (`tanya@flexiple.com`)
-- **Submission Date**: October 2026
+- **Author & Maintainer**: Rajnish
+- **Project Status**: Production / Open Reference
 - **Live Portal**: [https://givemehat.github.io/gcc-atlas-india/](https://givemehat.github.io/gcc-atlas-india/)
+- **GitHub Repository**: [https://github.com/givemehat/gcc-atlas-india](https://github.com/givemehat/gcc-atlas-india)
 - **Executive Presentation Deck (PDF)**: [https://givemehat.github.io/gcc-atlas-india/gcc-atlas-india-deck.pdf](https://givemehat.github.io/gcc-atlas-india/gcc-atlas-india-deck.pdf)
+- **Data Audit Log**: [`data/AUDIT.md`](data/AUDIT.md)

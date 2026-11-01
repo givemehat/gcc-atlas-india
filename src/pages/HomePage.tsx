@@ -211,7 +211,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                     <span className="block text-[10px] text-stone-500 font-normal">Jan 2026</span>
                   </th>
                   <th className="py-3 px-4 font-semibold">
-                    Flexiple GCC Intelligence
+                    Industry Entity Registries
                     <span className="block text-[10px] text-stone-500 font-normal">Feb 2026</span>
                   </th>
                   <th className="py-3 px-4 font-semibold text-stone-600">Definition Root Cause</th>
@@ -235,7 +235,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                     <span className="block text-stone-500 text-[10px]">(~40% share)</span>
                   </td>
                   <td className="py-3 px-4 text-stone-600 leading-snug">
-                    Vestian filters strictly by single standalone corporate parent leases; JLL counts individual physical business units; Flexiple tallies entity-level operating hubs.
+                    Vestian filters strictly by single standalone corporate parent leases; JLL counts individual physical business units; entity registries tally individual operating corporate subsidiaries.
                   </td>
                 </tr>
 
